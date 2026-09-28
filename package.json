@@ -1,0 +1,24 @@
+{
+  "name": "nisa-video-pipeline",
+  "version": "1.0.0",
+  "description": "NISA finance explainer video pipeline",
+  "scripts": {
+    "start": "npx remotion studio src/index.tsx",
+    "build": "npx remotion render src/index.tsx NisaVideo ../output/video.mp4",
+    "render": "npx remotion render src/index.tsx NisaVideo",
+    "preview": "npx remotion render src/index.tsx NisaVideo ../output/preview.mp4 --frames=0-89"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.185",
+    "@remotion/streaming": "^4.0.472",
+    "lucide-react": "^1.17.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.185"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.1",
+    "typescript": "5.4.5"
+  }
+}

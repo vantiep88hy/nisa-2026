@@ -1,0 +1,1 @@
+npx remotion preview src/index.tsx

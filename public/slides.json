@@ -1,0 +1,1319 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "title": "",
+    "audio": "audio.wav",
+    "srt": "sub.srt",
+    "resolution": "1920x1080",
+    "fps": 30
+  },
+  "slides": [
+    {
+      "slide_id": 1,
+      "type": "title_card",
+      "start": 0.866,
+      "end": 25.233,
+      "source_srt_ids": [
+        1,
+        2,
+        3
+      ],
+      "summary": "手取り25万円のNISA積立額の導入スライド",
+      "badge": "テーマ",
+      "title": "手取り25万円のNISA積立額",
+      "subtitle": "月1万円・3万円・10万円の現実的な解"
+    },
+    {
+      "slide_id": 2,
+      "type": "bullet_summary",
+      "start": 25.233,
+      "end": 43.7,
+      "source_srt_ids": [
+        4,
+        5
+      ],
+      "summary": "積立額に対する意見：最短で1800万円埋める意見、手取り25万での生活費と積立の葛藤",
+      "title": "積立額に対する意見",
+      "points": [
+        {
+          "text": "最短で1800万円埋める意見",
+          "highlight": "1800万円",
+          "start": 25.233,
+          "end": 29.8,
+          "icon": "Target",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            4
+          ]
+        },
+        {
+          "text": "手取り25万での生活費と積立の葛藤",
+          "highlight": "手取り25万",
+          "start": 29.8,
+          "end": 43.7,
+          "icon": "AlertTriangle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            5
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 3,
+      "type": "bullet_summary",
+      "start": 43.7,
+      "end": 56.5,
+      "source_srt_ids": [
+        6,
+        7,
+        8
+      ],
+      "summary": "現実的な金額についての声：月10万円積立は厳しすぎるという懸念、月3万円でも多いという感想、月1〜2万円なら始めやすいという意見",
+      "title": "現実的な金額についての声",
+      "points": [
+        {
+          "text": "月10万円積立は厳しすぎるという懸念",
+          "highlight": "月10万円",
+          "start": 43.7,
+          "end": 48.766,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            6
+          ]
+        },
+        {
+          "text": "月3万円でも多いという感想",
+          "highlight": "月3万円",
+          "start": 48.766,
+          "end": 51.566,
+          "icon": "Coins",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            7
+          ]
+        },
+        {
+          "text": "月1〜2万円なら始めやすいという意見",
+          "highlight": "月1〜2万円",
+          "start": 51.566,
+          "end": 56.5,
+          "icon": "CheckCircle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            8
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 4,
+      "type": "big_number",
+      "start": 56.5,
+      "end": 73.066,
+      "source_srt_ids": [
+        9,
+        10,
+        11
+      ],
+      "summary": "NISA全体の平均月額購入額：9万円",
+      "title": "NISA全体の平均月額購入額",
+      "number": "9",
+      "unit": "万円",
+      "context": null,
+      "description": null,
+      "icon": "BarChart2",
+      "highlight": "月9万円近く"
+    },
+    {
+      "slide_id": 5,
+      "type": "bullet_summary",
+      "start": 73.066,
+      "end": 86.166,
+      "source_srt_ids": [
+        12,
+        13
+      ],
+      "summary": "平均額の落とし穴と実態：平均値の背後にある大きな落とし穴、2025年に買付がない口座が36.6%",
+      "title": "平均額の落とし穴と実態",
+      "points": [
+        {
+          "text": "平均値の背後にある大きな落とし穴",
+          "highlight": "落とし穴",
+          "start": 73.066,
+          "end": 76.966,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            12
+          ]
+        },
+        {
+          "text": "2025年に買付がない口座が36.6%",
+          "highlight": "買付なし 36.6%",
+          "start": 76.966,
+          "end": 86.166,
+          "icon": "ChartColumn",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            13
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 6,
+      "type": "big_number",
+      "start": 86.166,
+      "end": 103.2,
+      "source_srt_ids": [
+        14,
+        15
+      ],
+      "summary": "月5万円以下・買付なしの割合：70%前後",
+      "title": "月5万円以下・買付なしの割合",
+      "number": "70",
+      "unit": "%前後",
+      "context": null,
+      "description": null,
+      "icon": "ChartColumn",
+      "highlight": "約7割"
+    },
+    {
+      "slide_id": 7,
+      "type": "bullet_summary",
+      "start": 103.2,
+      "end": 118.566,
+      "source_srt_ids": [
+        16,
+        17
+      ],
+      "summary": "継続できる積立額の考え方：積立額の大きさだけが重要ではない、止めずに続けられる額が本当の正解",
+      "title": "継続できる積立額の考え方",
+      "points": [
+        {
+          "text": "積立額の大きさだけが重要ではない",
+          "highlight": "大きさではない",
+          "start": 103.2,
+          "end": 107.533,
+          "icon": "Scale",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            16
+          ]
+        },
+        {
+          "text": "止めずに続けられる額が本当の正解",
+          "highlight": "止めずに続けられる額",
+          "start": 107.533,
+          "end": 118.566,
+          "icon": "CheckCircle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            17
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 8,
+      "type": "bullet_summary",
+      "start": 118.566,
+      "end": 131.8,
+      "source_srt_ids": [
+        18,
+        19
+      ],
+      "summary": "身の丈に合った設定の重要性：手取りに合わない無理な積立の危険性、自分の状況に照らした判断が必要",
+      "title": "身の丈に合った設定の重要性",
+      "points": [
+        {
+          "text": "手取りに合わない無理な積立の危険性",
+          "highlight": "合わない積立は危険",
+          "start": 118.566,
+          "end": 127.133,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            18
+          ]
+        },
+        {
+          "text": "自分の状況に照らした判断が必要",
+          "highlight": "自分の状況",
+          "start": 127.133,
+          "end": 131.8,
+          "icon": "Users",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            19
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 9,
+      "type": "title_card",
+      "start": 131.8,
+      "end": 142.433,
+      "source_srt_ids": [
+        20,
+        21
+      ],
+      "summary": "少額積立と投資期間の関係の導入スライド",
+      "badge": "検証",
+      "title": "少額積立と投資期間の関係",
+      "subtitle": "月1〜2万円の有効性を年数から検証する"
+    },
+    {
+      "slide_id": 10,
+      "type": "bullet_summary",
+      "start": 142.433,
+      "end": 155.2,
+      "source_srt_ids": [
+        22,
+        23
+      ],
+      "summary": "シミュレーションの前提条件：年7%運用・インフレ率2%での現在価値試算、実際の運用での数値の変動可能性",
+      "title": "シミュレーションの前提条件",
+      "points": [
+        {
+          "text": "年7%運用・インフレ率2%での現在価値試算",
+          "highlight": "年7%・インフレ2%",
+          "start": 142.433,
+          "end": 149.9,
+          "icon": "TrendingUp",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            22
+          ]
+        },
+        {
+          "text": "実際の運用での数値の変動可能性",
+          "highlight": "実際の運用",
+          "start": 149.9,
+          "end": 155.2,
+          "icon": "Activity",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            23
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 11,
+      "type": "big_number",
+      "start": 155.2,
+      "end": 169.5,
+      "source_srt_ids": [
+        24
+      ],
+      "summary": "30年運用（月5万円）の資産試算：3387万円",
+      "title": "30年運用（月5万円）の資産試算",
+      "number": "3387",
+      "unit": "万円",
+      "context": null,
+      "description": null,
+      "icon": "TrendingUp",
+      "highlight": "月5万円×30年"
+    },
+    {
+      "slide_id": 12,
+      "type": "bullet_summary",
+      "start": 169.5,
+      "end": 175.133,
+      "source_srt_ids": [
+        25,
+        26
+      ],
+      "summary": "長期投資への視聴者の見解：早いうちから淡々と続ける姿勢、長期で取り組むことの大切さ",
+      "title": "長期投資への視聴者の見解",
+      "points": [
+        {
+          "text": "早いうちから淡々と続ける姿勢",
+          "highlight": "早いうちから淡々と",
+          "start": 169.5,
+          "end": 172.566,
+          "icon": "Zap",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            25
+          ]
+        },
+        {
+          "text": "長期で取り組むことの大切さ",
+          "highlight": "長期で取り組む",
+          "start": 172.566,
+          "end": 175.133,
+          "icon": "Calendar",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            26
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 13,
+      "type": "bullet_summary",
+      "start": 175.133,
+      "end": 183.333,
+      "source_srt_ids": [
+        27,
+        28
+      ],
+      "summary": "無理のない長期継続：家計に無理なく月1万円から継続、継続すること自体の価値",
+      "title": "無理のない長期継続",
+      "points": [
+        {
+          "text": "家計に無理なく月1万円から継続",
+          "highlight": "家計に無理なく",
+          "start": 175.133,
+          "end": 180.466,
+          "icon": "Coins",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            27
+          ]
+        },
+        {
+          "text": "継続すること自体の価値",
+          "highlight": "続けることが大事",
+          "start": 180.466,
+          "end": 183.333,
+          "icon": "CheckCircle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            28
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 14,
+      "type": "bullet_summary",
+      "start": 183.333,
+      "end": 192.4,
+      "source_srt_ids": [
+        29,
+        30
+      ],
+      "summary": "投資期間による条件の変化：月10万円投資できる人が常に有利か、投資期間が短くなった場合の変化",
+      "title": "投資期間による条件の変化",
+      "points": [
+        {
+          "text": "月10万円投資できる人が常に有利か",
+          "highlight": "月10万円",
+          "start": 183.333,
+          "end": 188.666,
+          "icon": "Coins",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            29
+          ]
+        },
+        {
+          "text": "投資期間が短くなった場合の変化",
+          "highlight": "時間が短くなると",
+          "start": 188.666,
+          "end": 192.4,
+          "icon": "Calendar",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            30
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 15,
+      "type": "bullet_summary",
+      "start": 192.4,
+      "end": 207.0,
+      "source_srt_ids": [
+        31,
+        32
+      ],
+      "summary": "20年・10年での試算結果：20年運用：月3万で約1058万/月5万で約1763万、10年運用：月10万円でも約1428万円",
+      "title": "20年・10年での試算結果",
+      "points": [
+        {
+          "text": "20年運用：月3万で約1058万/月5万で約1763万",
+          "highlight": "20年で約1763万円",
+          "start": 192.4,
+          "end": 200.533,
+          "icon": "TrendingUp",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            31
+          ]
+        },
+        {
+          "text": "10年運用：月10万円でも約1428万円",
+          "highlight": "10年で約1428万円",
+          "start": 200.533,
+          "end": 207.0,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            32
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 16,
+      "type": "comparison",
+      "start": 207.0,
+      "end": 215.633,
+      "source_srt_ids": [
+        33,
+        34
+      ],
+      "summary": "比較スライド: 月10万円積立の期間による差",
+      "title": "月10万円積立の期間による差",
+      "items": [
+        {
+          "label": "長期",
+          "value": "約6774万円",
+          "highlight": "複利効果大",
+          "icon": "Calendar",
+          "points": [
+            {
+              "text": "長い期間で資産が大きく成長"
+            }
+          ]
+        },
+        {
+          "label": "短期",
+          "value": "約1428万円",
+          "highlight": "期間不足",
+          "icon": "Calendar",
+          "points": [
+            {
+              "text": "同じ月額でも期間が短いと限定的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_id": 17,
+      "type": "bullet_summary",
+      "start": 215.633,
+      "end": 236.633,
+      "source_srt_ids": [
+        35,
+        36
+      ],
+      "summary": "生活防衛資金と積立の順序：現金手元の確保なしでの積立リスク、貯金とNISAを明確に分離する意識",
+      "title": "生活防衛資金と積立の順序",
+      "points": [
+        {
+          "text": "現金手元の確保なしでの積立リスク",
+          "highlight": "現金確保が優先",
+          "start": 215.633,
+          "end": 231.066,
+          "icon": "Shield",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            35
+          ]
+        },
+        {
+          "text": "貯金とNISAを明確に分離する意識",
+          "highlight": "貯金とNISAは別物",
+          "start": 231.066,
+          "end": 236.633,
+          "icon": "Landmark",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            36
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 18,
+      "type": "bullet_summary",
+      "start": 236.633,
+      "end": 241.366,
+      "source_srt_ids": [
+        37
+      ],
+      "summary": "余裕資金作りの第一歩：固定費見直しによる余裕資金の捻出",
+      "title": "余裕資金作りの第一歩",
+      "points": [
+        {
+          "text": "固定費見直しによる余裕資金の捻出",
+          "highlight": "固定費見直し",
+          "start": 236.633,
+          "end": 241.366,
+          "icon": "Coins",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            37
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 19,
+      "type": "bullet_summary",
+      "start": 241.366,
+      "end": 254.833,
+      "source_srt_ids": [
+        38,
+        39
+      ],
+      "summary": "目標金額からの逆算思考：月額を先に決める思考からの脱却、30年後に約1273万円目指すなら月2万円",
+      "title": "目標金額からの逆算思考",
+      "points": [
+        {
+          "text": "月額を先に決める思考からの脱却",
+          "highlight": "月額先決めはNG",
+          "start": 241.366,
+          "end": 246.333,
+          "icon": "AlertTriangle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            38
+          ]
+        },
+        {
+          "text": "30年後に約1273万円目指すなら月2万円",
+          "highlight": "目標1273万円/月2万",
+          "start": 246.333,
+          "end": 254.833,
+          "icon": "Target",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            39
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 20,
+      "type": "bullet_summary",
+      "start": 254.833,
+      "end": 274.9,
+      "source_srt_ids": [
+        40,
+        41
+      ],
+      "summary": "高目標額に応じた必要月額：30年後に3000万円目指すなら月5万円、30年後に5000万円目指すなら月10万円",
+      "title": "高目標額に応じた必要月額",
+      "points": [
+        {
+          "text": "30年後に3000万円目指すなら月5万円",
+          "highlight": "目標3000万円/月5万",
+          "start": 254.833,
+          "end": 264.033,
+          "icon": "Target",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            40
+          ]
+        },
+        {
+          "text": "30年後に5000万円目指すなら月10万円",
+          "highlight": "目標5000万円/月10万",
+          "start": 264.033,
+          "end": 274.9,
+          "icon": "TrendingUp",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            41
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 21,
+      "type": "bullet_summary",
+      "start": 274.9,
+      "end": 285.133,
+      "source_srt_ids": [
+        42,
+        43,
+        44
+      ],
+      "summary": "最適解の模索に関する反応：自分自身の最適解を見つけたい思い、逆算思考への賛同と参考意識、長く続けられる金額重視の意見",
+      "title": "最適解の模索に関する反応",
+      "points": [
+        {
+          "text": "自分自身の最適解を見つけたい思い",
+          "highlight": "自分の最適解",
+          "start": 274.9,
+          "end": 277.966,
+          "icon": "Target",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            42
+          ]
+        },
+        {
+          "text": "逆算思考への賛同と参考意識",
+          "highlight": "参考になる",
+          "start": 277.966,
+          "end": 281.5,
+          "icon": "CheckCircle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            43
+          ]
+        },
+        {
+          "text": "長く続けられる金額重視の意見",
+          "highlight": "長く続けられる額",
+          "start": 281.5,
+          "end": 285.133,
+          "icon": "Calendar",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            44
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 22,
+      "type": "comparison",
+      "start": 285.133,
+      "end": 297.2,
+      "source_srt_ids": [
+        45,
+        46
+      ],
+      "summary": "比較スライド: 保有資産による月3万円の意味の違い",
+      "title": "保有資産による月3万円の意味の違い",
+      "items": [
+        {
+          "label": "準備完了",
+          "value": "月3万円OK",
+          "highlight": "余裕のある積立",
+          "icon": "Landmark",
+          "points": [
+            {
+              "text": "防衛資金が確保されている"
+            }
+          ]
+        },
+        {
+          "label": "形成中",
+          "value": "慎重に設定",
+          "highlight": "リスクに注意",
+          "icon": "Shield",
+          "points": [
+            {
+              "text": "まずは手元の現金を優先"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_id": 23,
+      "type": "bullet_summary",
+      "start": 297.2,
+      "end": 310.233,
+      "source_srt_ids": [
+        47,
+        48,
+        49
+      ],
+      "summary": "個人の状況に応じた選択：返済や生活状況を鑑みた月1万円設定、生活の安定を最優先にする意識、無理な投資設定への警戒",
+      "title": "個人の状況に応じた選択",
+      "points": [
+        {
+          "text": "返済や生活状況を鑑みた月1万円設定",
+          "highlight": "月1万円から",
+          "start": 297.2,
+          "end": 304.066,
+          "icon": "Coins",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            47
+          ]
+        },
+        {
+          "text": "生活の安定を最優先にする意識",
+          "highlight": "生き残ることを優先",
+          "start": 304.066,
+          "end": 307.4,
+          "icon": "Shield",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            48
+          ]
+        },
+        {
+          "text": "無理な投資設定への警戒",
+          "highlight": "無理しすぎない",
+          "start": 307.4,
+          "end": 310.233,
+          "icon": "AlertTriangle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            49
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 24,
+      "type": "timeline",
+      "start": 310.233,
+      "end": 330.866,
+      "source_srt_ids": [
+        50,
+        51
+      ],
+      "summary": "積立額決定に必要な検討要素：2ステップ",
+      "title": "積立額決定に必要な検討要素",
+      "steps": [
+        {
+          "label": "条件の可視化",
+          "desc": "手取り額だけで金額を決めない",
+          "icon": "AlertTriangle",
+          "highlight": "手取りのみで決めない",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            50
+          ],
+          "start": 310.233,
+          "end": 319.333
+        },
+        {
+          "label": "多角的分析",
+          "desc": "生活費・貯金・期間・目標額を把握",
+          "icon": "Target",
+          "highlight": "目標と現状を分析",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            51
+          ],
+          "start": 319.333,
+          "end": 330.866
+        }
+      ],
+      "conclusion": null
+    },
+    {
+      "slide_id": 25,
+      "type": "bullet_summary",
+      "start": 330.866,
+      "end": 343.833,
+      "source_srt_ids": [
+        52,
+        53
+      ],
+      "summary": "固定費削減による原資作成：削減分をNISAに回す実質負担ゼロ化、習慣・見直しでの月1万円捻出",
+      "title": "固定費削減による原資作成",
+      "points": [
+        {
+          "text": "削減分をNISAに回す実質負担ゼロ化",
+          "highlight": "実質負担ゼロ",
+          "start": 330.866,
+          "end": 336.033,
+          "icon": "Zap",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            52
+          ]
+        },
+        {
+          "text": "習慣・見直しでの月1万円捻出",
+          "highlight": "月1万円捻出",
+          "start": 336.033,
+          "end": 343.833,
+          "icon": "Coins",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            53
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 26,
+      "type": "bullet_summary",
+      "start": 343.833,
+      "end": 359.5,
+      "source_srt_ids": [
+        54
+      ],
+      "summary": "月5万円の節約・固定費見直し内訳：保険・SIM・サブスク・外食・自炊の整理",
+      "title": "月5万円の節約・固定費見直し内訳",
+      "points": [
+        {
+          "text": "保険・SIM・サブスク・外食・自炊の整理",
+          "highlight": "見直しで月5万円",
+          "start": 343.833,
+          "end": 359.5,
+          "icon": "CheckCircle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            54
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 27,
+      "type": "comparison",
+      "start": 359.5,
+      "end": 373.266,
+      "source_srt_ids": [
+        55,
+        56
+      ],
+      "summary": "比較スライド: 投資額の増額と生活維持の比較",
+      "title": "投資額の増額と生活維持の比較",
+      "items": [
+        {
+          "label": "将来重視",
+          "value": "資産形成加速",
+          "highlight": "可能性増大",
+          "icon": "TrendingUp",
+          "points": [
+            {
+              "text": "将来の成果が大きくなる可能性"
+            }
+          ]
+        },
+        {
+          "label": "過度な縮小",
+          "value": "継続不能リスク",
+          "highlight": "本末転倒",
+          "icon": "AlertTriangle",
+          "points": [
+            {
+              "text": "現在の生活破綻で挫折する危険"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_id": 28,
+      "type": "bullet_summary",
+      "start": 373.266,
+      "end": 394.466,
+      "source_srt_ids": [
+        57,
+        58,
+        59
+      ],
+      "summary": "生活のゆとりとストレスフリー投資：現在を楽しむ生活の余裕の必要性、生活基盤を維持した淡々とした継続、ストレスの発生しない範囲での設定",
+      "title": "生活のゆとりとストレスフリー投資",
+      "points": [
+        {
+          "text": "現在を楽しむ生活の余裕の必要性",
+          "highlight": "今を楽しむ余裕",
+          "start": 373.266,
+          "end": 381.533,
+          "icon": "Users",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            57
+          ]
+        },
+        {
+          "text": "生活基盤を維持した淡々とした継続",
+          "highlight": "土台を揺らがせず",
+          "start": 381.533,
+          "end": 390.333,
+          "icon": "CheckCircle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            58
+          ]
+        },
+        {
+          "text": "ストレスの発生しない範囲での設定",
+          "highlight": "ストレスない範囲",
+          "start": 390.333,
+          "end": 394.466,
+          "icon": "Shield",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            59
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 29,
+      "type": "timeline",
+      "start": 394.466,
+      "end": 407.933,
+      "source_srt_ids": [
+        60,
+        61
+      ],
+      "summary": "積立額決定の正しい手順：2ステップ",
+      "title": "積立額決定の正しい手順",
+      "steps": [
+        {
+          "label": "正解の誤解を解く",
+          "desc": "「月○万が正解」という固定観念を捨てる",
+          "icon": "AlertTriangle",
+          "highlight": "単一の正解はない",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            60
+          ],
+          "start": 394.466,
+          "end": 400.333
+        },
+        {
+          "label": "目標と現在地の確認",
+          "desc": "目標額・期間・資産から逆算する",
+          "icon": "Target",
+          "highlight": "目標から逆算",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            61
+          ],
+          "start": 400.333,
+          "end": 407.933
+        }
+      ],
+      "conclusion": null
+    },
+    {
+      "slide_id": 30,
+      "type": "bullet_summary",
+      "start": 407.933,
+      "end": 421.466,
+      "source_srt_ids": [
+        62,
+        63
+      ],
+      "summary": "失敗しない金額設定の極意：投資可能期間（30年vs10年）による差、途中でやめずに続けられる安全域の設定",
+      "title": "失敗しない金額設定の極意",
+      "points": [
+        {
+          "text": "投資可能期間（30年vs10年）による差",
+          "highlight": "期間による違い",
+          "start": 407.933,
+          "end": 414.866,
+          "icon": "Calendar",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            62
+          ]
+        },
+        {
+          "text": "途中でやめずに続けられる安全域の設定",
+          "highlight": "途中で止めない金額",
+          "start": 414.866,
+          "end": 421.466,
+          "icon": "CheckCircle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            63
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 31,
+      "type": "bullet_summary",
+      "start": 421.466,
+      "end": 431.4,
+      "source_srt_ids": [
+        64,
+        65,
+        66
+      ],
+      "summary": "継続性の重要性に関する共感：途絶してしまうことの最大の危険性、無理のない計画設定がベストという認識、自分のストレス耐性に応じた設定",
+      "title": "継続性の重要性に関する共感",
+      "points": [
+        {
+          "text": "途絶してしまうことの最大の危険性",
+          "highlight": "続かないのが最も危険",
+          "start": 421.466,
+          "end": 424.1,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            64
+          ]
+        },
+        {
+          "text": "無理のない計画設定がベストという認識",
+          "highlight": "無理なくがベスト",
+          "start": 424.1,
+          "end": 426.6,
+          "icon": "CheckCircle",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            65
+          ]
+        },
+        {
+          "text": "自分のストレス耐性に応じた設定",
+          "highlight": "ストレスのない範囲",
+          "start": 426.6,
+          "end": 431.4,
+          "icon": "Shield",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            66
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 32,
+      "type": "title_card",
+      "start": 431.4,
+      "end": 446.333,
+      "source_srt_ids": [
+        67,
+        68
+      ],
+      "summary": "月額ではなく目標からの逆算の導入スライド",
+      "badge": "結論",
+      "title": "月額ではなく目標からの逆算",
+      "subtitle": "何年後にいくら必要かを出発点にする"
+    },
+    {
+      "slide_id": 33,
+      "type": "bullet_summary",
+      "start": 446.333,
+      "end": 465.366,
+      "source_srt_ids": [
+        69,
+        70,
+        71
+      ],
+      "summary": "SNSでの高額積立に対する注意：SNSの積立情報に対する注意点、月10万・20万・30万といった投稿、他人の情報による焦りや不安",
+      "title": "SNSでの高額積立に対する注意",
+      "points": [
+        {
+          "text": "SNSの積立情報に対する注意点",
+          "highlight": "SNS情報に注意",
+          "start": 446.333,
+          "end": 452.533,
+          "icon": "Globe",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            69
+          ]
+        },
+        {
+          "text": "月10万・20万・30万といった投稿",
+          "highlight": "月10万〜30万",
+          "start": 452.533,
+          "end": 459.333,
+          "icon": "BarChart2",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            70
+          ]
+        },
+        {
+          "text": "他人の情報による焦りや不安",
+          "highlight": "焦りは不要",
+          "start": 459.333,
+          "end": 465.366,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            71
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 34,
+      "type": "comparison",
+      "start": 465.366,
+      "end": 487.633,
+      "source_srt_ids": [
+        72,
+        73,
+        74
+      ],
+      "summary": "比較スライド: 他人と自分の積立基準の比較",
+      "title": "他人と自分の積立基準の比較",
+      "items": [
+        {
+          "label": "背景不明",
+          "value": "月10万〜30万円",
+          "highlight": "貯金・年齢非公開",
+          "icon": "Globe",
+          "points": [
+            {
+              "text": "前提条件が見えない情報"
+            }
+          ]
+        },
+        {
+          "label": "現実基準",
+          "value": "身の丈にあった額",
+          "highlight": "自分軸で決定",
+          "icon": "Users",
+          "points": [
+            {
+              "text": "自分の余力・目標のみを基準にする"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_id": 35,
+      "type": "timeline",
+      "start": 487.633,
+      "end": 502.833,
+      "source_srt_ids": [
+        75,
+        76
+      ],
+      "summary": "自分に合った積立額算出の3ステップ：2ステップ",
+      "title": "自分に合った積立額算出の3ステップ",
+      "steps": [
+        {
+          "label": "現状と目標の整理",
+          "desc": "手元資金・必要期間・目標額を定義",
+          "icon": "Target",
+          "highlight": "現状と目標",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            75
+          ],
+          "start": 487.633,
+          "end": 497.6
+        },
+        {
+          "label": "必要額の可視化",
+          "desc": "無理なく続けられる余力を算出し決定",
+          "icon": "CheckCircle",
+          "highlight": "可視化と決定",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            76
+          ],
+          "start": 497.6,
+          "end": 502.833
+        }
+      ],
+      "conclusion": null
+    },
+    {
+      "slide_id": 36,
+      "type": "comparison",
+      "start": 502.833,
+      "end": 515.066,
+      "source_srt_ids": [
+        77,
+        78
+      ],
+      "summary": "比較スライド: 積立ペースによるアプローチ比較",
+      "title": "積立ペースによるアプローチ比較",
+      "items": [
+        {
+          "label": "高ペース",
+          "value": "形成の加速",
+          "highlight": "早期達成",
+          "icon": "Zap",
+          "points": [
+            {
+              "text": "目標達成までの期間を短縮"
+            }
+          ]
+        },
+        {
+          "label": "着実ペース",
+          "value": "着実な蓄積",
+          "highlight": "長期継続",
+          "icon": "Coins",
+          "points": [
+            {
+              "text": "時間を味方にして大きな差を作る"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_id": 37,
+      "type": "bullet_summary",
+      "start": 515.066,
+      "end": 525.366,
+      "source_srt_ids": [
+        79,
+        80
+      ],
+      "summary": "自分軸での積立計画の確立：他人の実績に追いつくことを目標にしない、生活を壊さずに続けられる金額の確定",
+      "title": "自分軸での積立計画の確立",
+      "points": [
+        {
+          "text": "他人の実績に追いつくことを目標にしない",
+          "highlight": "他人に追いつかない",
+          "start": 515.066,
+          "end": 519.666,
+          "icon": "AlertTriangle",
+          "focus_weight": 2,
+          "source_srt_ids": [
+            79
+          ]
+        },
+        {
+          "text": "生活を壊さずに続けられる金額の確定",
+          "highlight": "生活を壊さない額",
+          "start": 519.666,
+          "end": 525.366,
+          "icon": "Shield",
+          "focus_weight": 1,
+          "source_srt_ids": [
+            80
+          ]
+        }
+      ],
+      "cta": null
+    },
+    {
+      "slide_id": 38,
+      "type": "title_card",
+      "start": 525.366,
+      "end": 535.133,
+      "source_srt_ids": [
+        81
+      ],
+      "summary": "目標からの逆算で最適な積立をの導入スライド",
+      "badge": "まとめ",
+      "title": "目標からの逆算で最適な積立を",
+      "subtitle": "何年後にいくら必要かからスタートしよう"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "bg-title-1": {
+    "name": "bg-title-1",
+    "fps": 30.0,
+    "frameCount": 451,
+    "quality": 85
+  },
+  "bg-title-2": {
+    "name": "bg-title-2",
+    "fps": 30.0,
+    "frameCount": 450,
+    "quality": 85
+  },
+  "bg-title-3": {
+    "name": "bg-title-3",
+    "fps": 30.0,
+    "frameCount": 449,
+    "quality": 85
+  },
+  "bg-content-1": {
+    "name": "bg-content-1",
+    "fps": 30.0,
+    "frameCount": 300,
+    "quality": 85
+  },
+  "bg-content-2": {
+    "name": "bg-content-2",
+    "fps": 30.0,
+    "frameCount": 599,
+    "quality": 85
+  },
+  "bg-compare-1": {
+    "name": "bg-compare-1",
+    "fps": 30.0,
+    "frameCount": 450,
+    "quality": 85
+  },
+  "bg-compare-2": {
+    "name": "bg-compare-2",
+    "fps": 29.97002997002997,
+    "frameCount": 450,
+    "quality": 85
+  },
+  "bg-number-1": {
+    "name": "bg-number-1",
+    "fps": 25.0,
+    "frameCount": 250,
+    "quality": 85
+  },
+  "bg-timeline-1": {
+    "name": "bg-timeline-1",
+    "fps": 30.0,
+    "frameCount": 407,
+    "quality": 85
+  },
+  "bg-timeline-2": {
+    "name": "bg-timeline-2",
+    "fps": 30.0,
+    "frameCount": 1000,
+    "quality": 85
+  },
+  "bg-time": {
+    "name": "bg-time",
+    "fps": 30.0,
+    "frameCount": 1000,
+    "quality": 85
+  }
+}
